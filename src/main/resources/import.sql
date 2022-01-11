@@ -1,0 +1,1 @@
+INSERT INTO FIRST_MODEL (ID, NAME, ADDRESS) VALUES(1, 'Deneme', 'Location');
